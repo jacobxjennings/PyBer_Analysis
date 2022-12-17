@@ -28,4 +28,4 @@ To calculate the total fare by city type, we extract the total amount of all far
     total_fares
 
 ## Summary
-![PyBer Ride-Sharing Data (2019)](https://github.com/jacobxjennings/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
+![PyBer Ride-Sharing Data (2019)](https://github.com/jacobxjennings/PyBer_Analysis/blob/main/PyBer_fare_summary.png?raw=true)
