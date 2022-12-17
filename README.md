@@ -24,3 +24,8 @@ By summing fare from pyber_data_df and grouping by the city type, we calculate t
 ## Total Fare by City Type
 To calculate the total fare by city type, we extract the total amount of all fares per city types. Urban areas bring in $39,854, suburan areas bring in $19,356, and rural areas bring in $4327. 
 
+    total_fares = pyber_data_df.groupby('type').sum().fare
+    total_fares
+
+## Summary
+![PyBer Ride-Sharing Data (2019)](https://github.com/jacobxjennings/PyBer_Analysis/blob/main/analysis/PyBer_fare_summary.png?raw=true)
